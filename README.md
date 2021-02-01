@@ -1,4 +1,4 @@
-<h2> Hello World, I'm Ankita!✨ <img src="https://i.pinimg.com/originals/9a/f9/02/9af902f0b7f9a584ec727c00c101e7df.gif" width="100"></h2>
+<h2> Hello World, I'm Ankita!✨ </h2>
 
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
