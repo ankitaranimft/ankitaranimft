@@ -1,4 +1,6 @@
-### Hi there 👋
+ ### Hello World, I'm Ankita!✨😄
+ 
+<img align='right' src="https://sievo.com/media/procurement-ai.gif" width="230">
 - 🔭 I’m currently working on wonderful project on Human Sentimental Analyser.
 - 🌱 I’m currently learning Python,AI/ML,NLP.
 - 👯 I’m looking to collaborate on open source.
