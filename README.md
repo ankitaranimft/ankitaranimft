@@ -1,6 +1,5 @@
 <h2> Hello World, I'm Ankita!✨ <"https://tenor.com/search/robot-gifs" width="50"></h2>
- 
-<img align="right" alt="GIF" src="src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="120" />
  ## I'm pursuing my Btech in CSE-MFT from UPES,Dehradun
                                                                                                                                      
   An aspiring data analyst who is curious enough to design successful business models for a better and hasslefree future.                                                                                                                                                                                                                            
