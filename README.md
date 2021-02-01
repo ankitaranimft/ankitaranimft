@@ -19,7 +19,7 @@
   <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 <a href="https://www.instagram.com/rani.ankita60/">
-  <img align="left" alt="Instagram" src="https://miro.medium.com/max/3000/1*V7GYJQ_4lykfDzOf9q17eA.jpeg"/>
+  <img align="left" alt="Instagram"  src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>
 
 
