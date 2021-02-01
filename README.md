@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rani.ankita60/),[LinkedIn](https://www.linkedin.com/in/ankita-rani-07214a143/)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Excited for new researches in AI.
+- ⚡ Fun fact: Excited for new researches in AI...
 -->
