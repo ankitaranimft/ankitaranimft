@@ -1,6 +1,6 @@
  ### Hello World, I'm Ankita!✨😄
  
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://static.wixstatic.com/media/cfb049_23f169a7ea8244d1b611c95da1d04cad~mv2.gif" width="500" height="320" />
 - 🔭 I’m currently working on wonderful project on Human Sentimental Analyser.
 - 🌱 I’m currently learning Python,AI/ML,NLP.
 - 👯 I’m looking to collaborate on open source.
