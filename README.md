@@ -1,13 +1,27 @@
- ### Hello World, I'm Ankita!✨😄
+<h2> Hello World, I'm Ankita!✨ <"https://tenor.com/search/robot-gifs" width="50"></h2>
  
-<img align="right" alt="GIF" src="https://static.wixstatic.com/media/cfb049_23f169a7ea8244d1b611c95da1d04cad~mv2.gif" width="500" height="320" />
-- 🔭 I’m currently working on wonderful project on Human Sentimental Analyser.
+<img align="right" alt="GIF" src="src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ ## I'm pursuing my Btech in CSE-MFT from UPES,Dehradun
+                                                                                                                                     
+  An aspiring data analyst who is curious enough to design successful business models for a better and hasslefree future.                                                                                                                                                                                                                            
+  🔭 I’m currently working on wonderful project on Human Sentimental Analyser.
 - 🌱 I’m currently learning Python,AI/ML,NLP.
-- 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rani.ankita60/),[LinkedIn](https://www.linkedin.com/in/ankita-rani-07214a143/)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Excited for new researches in AI.
+
+
+
+<a href="https://www.linkedin.com/in/ankita-rani-07214a143/">
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+<a href="mailto:rani.ankita60@gmail.com">
+  <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+<a href="https://www.instagram.com/rani.ankita60/">
+  <img align="left" alt="Instagram" src="https://miro.medium.com/max/3000/1*V7GYJQ_4lykfDzOf9q17eA.jpeg"/>
+</a>
+
 
 <!--
 **ankitaranimft/ankitaranimft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
