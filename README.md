@@ -1,4 +1,4 @@
-<h2> Hello World, I'm Ankita!✨ <img src="https://sievo.com/media/procurement-ai.gif" width="50"></h2>
+<h2> Hello World, I'm Ankita!✨ <img src="https://media.tenor.com/images/d7c4d95c12e60a53681e9e3738693003/tenor.gif" width="60"></h2>
 
   <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
