@@ -6,8 +6,8 @@
  ## I'm pursuing my Btech in CSE-MFT from UPES,Dehradun
                                                                                                                                      
  <br>An aspiring data analyst who is curious enough to design successful business models for a better and hasslefree future.</br>                                                                                                                                                                                                                           
-- 🔭 I’m currently working on wonderful project on Human Sentimental Analyser.
-- 🌱 I’m currently learning Python,AI/ML,NLP.
+- 🔭 I’m currently working on projects related to ML and Deep Learning.
+- 🌱 I’m currently learning Python,Machine Learning,Deep Learning.
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/rani.ankita60/),[LinkedIn](https://www.linkedin.com/in/ankita-rani-07214a143/)
 - ⚡ Fun fact: Excited for new researches in AI.
